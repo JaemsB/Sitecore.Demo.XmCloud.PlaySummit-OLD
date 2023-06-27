@@ -13,3 +13,19 @@
     }
   }
 }
+
+.text-cta-blue {
+  @apply basis-full bg-cyan700 p-7;
+
+  .cta-content {
+    @apply text-center;
+
+    .cta-title {
+      @apply text-4xl text-yellow-400 font-bold uppercase;
+    }
+
+    .cta-subtitle {
+      @apply text-white text-lg;
+    }
+  }
+}
