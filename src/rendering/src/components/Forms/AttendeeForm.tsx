@@ -96,7 +96,7 @@ const AttendeeForm = (props: ComponentProps): JSX.Element => {
       </label>
       <div className="button-area">
         <button className="btn-main" type="submit">
-          Next
+          Submit
         </button>
       </div>
       <div className="footnote">
